@@ -1,3 +1,0 @@
-samAccountName,First name,Middle Name,Last name,Display name,User logon name,Country/region,Job Title,Department,Company,Manager,Description,Office,Telephone number,E-mail,Account status,Password,pwdLastSet,employeeID,employeeNumber
-manager.manager,Manager,,Manager,Manager Manager,manager.manager,US,Manager,Dept,,,Copy Title,Office,111-111-1111,,Enabled,,0,,
-first.last,First,,Last,First Middle Last,first.last,US,Title,Dept,,Manager.Manager,Copy Title,Remote,222-222-2222,,Enabled,,0,,
